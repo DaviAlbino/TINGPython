@@ -1,4 +1,5 @@
 from ting_file_management.abstract_queue import AbstractQueue
+# começando o projeto
 
 
 class Queue(AbstractQueue):
